@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Seminar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899C72A7-2496-462E-8C00-DC3E21E519A5}|Serminar_WebApi_MVC\\Serminar_WebApi_MVC.csproj|d:\\projects\\seminar\\serminar_webapi_mvc\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899C72A7-2496-462E-8C00-DC3E21E519A5}|Serminar_WebApi_MVC\\Serminar_WebApi_MVC.csproj|solutionrelative:serminar_webapi_mvc\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A85F66-EA3B-49D0-A6F3-98CC07E5E57A}|Seminar\\Seminar.csproj|d:\\projects\\seminar\\seminar\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A85F66-EA3B-49D0-A6F3-98CC07E5E57A}|Seminar\\Seminar.csproj|solutionrelative:seminar\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899C72A7-2496-462E-8C00-DC3E21E519A5}|Serminar_WebApi_MVC\\Serminar_WebApi_MVC.csproj|d:\\projects\\seminar\\serminar_webapi_mvc\\views\\store\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899C72A7-2496-462E-8C00-DC3E21E519A5}|Serminar_WebApi_MVC\\Serminar_WebApi_MVC.csproj|solutionrelative:serminar_webapi_mvc\\views\\store\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899C72A7-2496-462E-8C00-DC3E21E519A5}|Serminar_WebApi_MVC\\Serminar_WebApi_MVC.csproj|d:\\projects\\seminar\\serminar_webapi_mvc\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899C72A7-2496-462E-8C00-DC3E21E519A5}|Serminar_WebApi_MVC\\Serminar_WebApi_MVC.csproj|solutionrelative:serminar_webapi_mvc\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 269,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Projects\\Seminar\\Seminar\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Seminar\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Projects\\Seminar\\Seminar\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Seminar\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:34:38.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Projects\\Seminar\\Serminar_WebApi_MVC\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Serminar_WebApi_MVC\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Projects\\Seminar\\Serminar_WebApi_MVC\\Controllers\\StoreController.cs*",
+              "RelativeToolTip": "Serminar_WebApi_MVC\\Controllers\\StoreController.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAnwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:15:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Seminar\\Serminar_WebApi_MVC\\Views\\Store\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Serminar_WebApi_MVC\\Views\\Store\\Delete.cshtml",
+              "ToolTip": "D:\\Projects\\Seminar\\Serminar_WebApi_MVC\\Views\\Store\\Delete.cshtml",
+              "RelativeToolTip": "Serminar_WebApi_MVC\\Views\\Store\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T16:15:58.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Seminar\\Serminar_WebApi_MVC\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "Serminar_WebApi_MVC\\Views\\Store\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Seminar\\Serminar_WebApi_MVC\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "Serminar_WebApi_MVC\\Views\\Store\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T14:44:28.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

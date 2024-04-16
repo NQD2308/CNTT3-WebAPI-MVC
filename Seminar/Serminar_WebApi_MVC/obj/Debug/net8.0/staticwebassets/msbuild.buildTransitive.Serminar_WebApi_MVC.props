@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Serminar_WebApi_MVC.props" />
+</Project>
