@@ -1,0 +1,1 @@
+Scaffold-DBContext "Server=.\SQLEXPRESS;uid=sa;password=1;database=petshop;Encrypt=true;TrustServerCertificate=true" Microsoft.EntityFrameWorkCore.SqlServer -OutputDir Models
